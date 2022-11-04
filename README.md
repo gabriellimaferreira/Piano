@@ -7,4 +7,4 @@ Nesse projeto fui capaz de trabalhar com os eventos do DOM.
 
 O projeto foi desenvolvido com HTML, CSS e JavaScript.
 
-site: 
+site: https://gabriellimaferreira.github.io/Piano/
